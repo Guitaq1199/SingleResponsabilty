@@ -1,0 +1,16 @@
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\bin\Debug\net5.0\Ejemplo1A.exe
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\bin\Debug\net5.0\Ejemplo1A.deps.json
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\bin\Debug\net5.0\Ejemplo1A.runtimeconfig.json
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\bin\Debug\net5.0\Ejemplo1A.runtimeconfig.dev.json
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\bin\Debug\net5.0\Ejemplo1A.dll
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\bin\Debug\net5.0\ref\Ejemplo1A.dll
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\bin\Debug\net5.0\Ejemplo1A.pdb
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.csprojAssemblyReference.cache
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.AssemblyInfoInputs.cache
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.AssemblyInfo.cs
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.csproj.CoreCompileInputs.cache
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.dll
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\ref\Ejemplo1A.dll
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.pdb
+C:\Users\mgrt9\OneDrive\Escritorio\Ejemplo1A\obj\Debug\net5.0\Ejemplo1A.genruntimeconfig.cache
